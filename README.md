@@ -1,4 +1,4 @@
-```markdown
+
 # Pikachu's TODO LIST
 
 ## Overview
@@ -19,7 +19,7 @@ Make sure you have the following installed on your machine:
 ### Installation
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone <repository-url>](https://github.com/Kunj1612/todolist-next)
    ```
 
 2. Navigate to the project directory
@@ -46,6 +46,4 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-```
 
-Make sure to replace `<repository-url>` with the actual URL of your repository.

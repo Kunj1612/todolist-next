@@ -1,4 +1,3 @@
-
 # Pikachu's TODO LIST
 
 ## Overview
@@ -19,31 +18,4 @@ Make sure you have the following installed on your machine:
 ### Installation
 1. Clone the repository
    ```bash
-   git clone <repository-url>](https://github.com/Kunj1612/todolist-next)
-   ```
-
-2. Navigate to the project directory
-   ```bash
-   cd pikachus-todo-list
-   ```
-
-3. Install dependencies
-   ```bash
-   npm install
-   ```
-
-## Usage
-1. Run the application
-   ```bash
-   npm start
-   ```
-2. Open your browser and visit [http://localhost:3000](http://localhost:3000)
-
-3. Add, complete, or delete tasks as needed.
-
-## Contributing
-Contributions are welcome! Feel free to open issues or pull requests.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
+   git clone [repository-url](https://github.com/Kunj1612/todolist-next)

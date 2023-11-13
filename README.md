@@ -8,6 +8,10 @@ Pikachu's TODO LIST is a simple React-based application for managing tasks. User
 - Mark tasks as complete or undo completion
 - Delete tasks
 
+## Demo
+Check out the live demo [here](https://todolist-next-five.vercel.app/).
+
+
 ## Getting Started
 
 ### Prerequisites

@@ -1,5 +1,3 @@
-Sure, I can help you modify the README file. Here's the updated version:
-
 ```markdown
 # Pikachu's TODO LIST
 

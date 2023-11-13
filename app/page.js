@@ -74,6 +74,7 @@ const Page = () => {
             onChange={(e) => {
               setTitle(e.target.value);
             }}
+              required
           />
           <input
             className="border-2 border-blue-800 m-3 p-1"
